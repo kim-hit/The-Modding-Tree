@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "The EToH Tree",
+	name: "The EJT Difficulty Tree",
 	author: "bigy_bank",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
